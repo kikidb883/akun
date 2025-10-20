@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": null,
     "createdAt": 1760849680603
+  },
+  {
+    "username": "wanz",
+    "password": "user",
+    "role": "user",
+    "expiresAt": 1763636301305,
+    "createdAt": 1760957901307
   }
 ]
