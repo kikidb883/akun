@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": 1763636301305,
     "createdAt": 1760957901307
+  },
+  {
+    "username": "kiki",
+    "password": "kiki001",
+    "role": "owner",
+    "expiresAt": null,
+    "createdAt": 1760958023860
   }
 ]
